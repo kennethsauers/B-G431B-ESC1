@@ -140,7 +140,8 @@ int main(void)
   /* USER CODE BEGIN 2 */
 
   /* USER CODE END 2 */
-
+  MC_StartMotor1();
+  MC_ProgramSpeedRampMotor1(2000,1000);
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
