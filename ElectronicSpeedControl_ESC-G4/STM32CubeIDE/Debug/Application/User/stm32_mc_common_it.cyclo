@@ -1,0 +1,4 @@
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/stm32_mc_common_it.c:70:6:USART2_IRQHandler	14
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/stm32_mc_common_it.c:148:6:HardFault_Handler	1
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/stm32_mc_common_it.c:167:6:SysTick_Handler	3
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/stm32_mc_common_it.c:213:6:EXTI15_10_IRQHandler	2

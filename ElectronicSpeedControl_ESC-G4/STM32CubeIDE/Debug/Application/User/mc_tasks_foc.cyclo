@@ -1,0 +1,7 @@
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/mc_tasks_foc.c:468:13:FOC_Clear	1
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/mc_tasks_foc.c:79:13:FOC_Init	1
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/mc_tasks_foc.c:148:6:TSK_MF_StopProcessing	1
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/mc_tasks_foc.c:504:13:FOC_InitAdditionalMethods	1
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/mc_tasks_foc.c:527:13:FOC_CalcCurrRef	2
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/mc_tasks_foc.c:166:13:TSK_MediumFrequencyTaskM1	30
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/mc_tasks_foc.c:582:16:FOC_HighFrequencyTask	11

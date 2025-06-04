@@ -1,0 +1,5 @@
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/sync_registers.c:33:9:RI_SetRegisterGlobal	17
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/sync_registers.c:167:9:RI_SetRegisterMotor1	90
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/sync_registers.c:616:9:RI_GetRegisterGlobal	20
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/sync_registers.c:761:11:RI_GetRegisterMotor1	104
+C:/Users/Kenneth/Documents/B-G431B-ESC1/ElectronicSpeedControl_ESC-G4/Src/sync_registers.c:1348:9:RI_MovString	4
